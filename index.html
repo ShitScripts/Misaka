@@ -4,13 +4,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>My Site</title>
-  <script>
-    const sourceJSON = require('./source.json');
-    const context = JSON.stringify(sourceJSON, null, 2);
-    document.getElementById('context').innerHTML = context;
-  </script>
 </head>
 <body>
-  <div id="context"></div>
+  <script>
+    const sourceJSON = require('./source.json');
+    document.body.innerHTML = sourceJSON.context;
+  </script>
 </body>
 </html>
