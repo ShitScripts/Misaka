@@ -1,0 +1,12 @@
+{
+  "name": "Menace Source",
+  "url": "https://example.com/misaka.json",
+  "iconURL": "https://example.com/misaka.png",
+  "apps": [
+    {
+      "name": "Misaka",
+      "bundleID": "com.example.misaka",
+      "ipaURL": "https://example.com/misaka.ipa"
+    }
+  ]
+}
