@@ -6,7 +6,7 @@
     {
       "name": "Misaka",
       "bundleID": "com.example.misaka",
-      "ipaURL": "https://example.com/misaka.ipa"
+      "ipaURL": "https://github.com/ShitScripts/Misaka/raw/main/misaka-2.0.1.ipa"
     }
   ]
 }
