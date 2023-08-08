@@ -1,7 +1,7 @@
 {
   "name": "Menace Source",
-  "url": "https://altstore.pretty-hot.xyz/config.json",
-  "iconURL": "https://example.com/misaka.png",
+  "url": "https://altstore.pretty-hot.xyz",
+  "iconURL": "https://raw.githubusercontent.com/ShitScripts/Misaka/main/logo.jpg",
   "apps": [
     {
       "name": "Misaka",
