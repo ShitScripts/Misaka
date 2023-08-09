@@ -1,15 +1,47 @@
 {
   "name": "Menace Source",
-  "apiVersion": "v2",
-  "identifier": "com.menacesource.menacesources",
-  "url": "https://altstore.pretty-hot.xyz",
+  "identifier": "com.menace.source",
+  "subtitle": "A source for the altstore",
+  "description": "Welcome to Menace Source! Here you'll find the Menace app.",
   "iconURL": "https://raw.githubusercontent.com/ShitScripts/Misaka/main/logo.jpg",
+  "headerURL": "https://raw.githubusercontent.com/ShitScripts/Misaka/main/logo.jpg",
+  "website": "https://altstore.pretty-hot.xyz",
+  "tintColor": "#1F1F1F", // Dark color
+  "featuredApps": ["com.straight-tamago.misakaRS"],
   "apps": [
     {
-      "name": "Misaka",
-      "ipaURL": "https://github.com/ShitScripts/Misaka/raw/main/misaka-2.0.1.ipa",
-      "bundleIdentifier": "com.straight-tamago.misakaRS"
+      "name": "Menace App",
+      "bundleIdentifier": "com.straight-tamago.misakaRS",
+      "developerName": "Menace Developer",
+      "subtitle": "A powerful app for your needs.",
+      "localizedDescription": "This is the Menace app, available on Menace Source.",
+      "iconURL": "https://raw.githubusercontent.com/ShitScripts/Misaka/main/logo.jpg",
+      "tintColor": "#1F1F1F", // Dark color
+      "screenshotURLs": ["https://example.com/menace_screenshot1.png", "https://example.com/menace_screenshot2.png"],
+      "versions": [
+        {
+          "version": "2.0.1",
+          "date": "2023-08-08",
+          "localizedDescription": "Introducing new features and improvements.",
+          "downloadURL": "https://github.com/ShitScripts/Misaka/raw/main/misaka-2.0.1.ipa",
+          "size": 12345678,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "16.3"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          { "name": "com.apple.security.application-groups" },
+          { "name": "com.apple.developer.siri" }
+        ],
+        "privacy": [
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "App saves photos to your Photo Library."
+          }
+        ]
+      }
     }
-  ]
+  ],
+  "news": []
 }
- 
