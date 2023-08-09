@@ -1,5 +1,6 @@
 {
   "name": "Menace Source",
+  "apiVersion": "v2",
   "identifier": "com.menacesource.menacesources",
   "url": "https://altstore.pretty-hot.xyz",
   "iconURL": "https://raw.githubusercontent.com/ShitScripts/Misaka/main/logo.jpg",
