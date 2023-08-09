@@ -8,9 +8,7 @@
       "name": "Misaka",
       "bundleID": "com.straight-tamago.misakaRS",
       "ipaURL": "https://github.com/ShitScripts/Misaka/raw/main/misaka-2.0.1.ipa",
-      "identifier": {
-        "stringvalue": "com.straight-tamago.misakaRS"
-      }
+      "identifier": "com.straight-tamago.misakaRS"
     }
   ]
 }
