@@ -1,12 +1,13 @@
 {
   "name": "Menace Source",
-  "url": "https://raw.githubusercontent.com/ShitScripts/Misaka/main/source.json",
+  "url": "https://altstore.pretty-hot.xyz",
   "iconURL": "https://raw.githubusercontent.com/ShitScripts/Misaka/main/logo.jpg",
   "apps": [
     {
       "name": "Misaka",
       "bundleID": "com.straight-tamago.misakaRS",
-      "ipaURL": "https://github.com/ShitScripts/Misaka/raw/main/misaka-2.0.1.ipa"
+      "ipaURL": "https://github.com/ShitScripts/Misaka/raw/main/misaka-2.0.1.ipa",
+      "identifier": "com.straight-tamago.misakaRS"
     }
   ]
 }
