@@ -6,7 +6,7 @@
   "iconURL": "https://raw.githubusercontent.com/ShitScripts/Misaka/main/logo.jpg",
   "headerURL": "https://raw.githubusercontent.com/ShitScripts/Misaka/main/logo.jpg",
   "website": "https://altstore.pretty-hot.xyz",
-  "tintColor": "#1F1F1F", // Dark color
+  "tintColor": "#1F1F1F",
   "featuredApps": ["com.straight-tamago.misakaRS"],
   "apps": [
     {
@@ -16,7 +16,7 @@
       "subtitle": "A powerful app for your needs.",
       "localizedDescription": "This is the Menace app, available on Menace Source.",
       "iconURL": "https://raw.githubusercontent.com/ShitScripts/Misaka/main/logo.jpg",
-      "tintColor": "#1F1F1F", // Dark color
+      "tintColor": "#1F1F1F",
       "screenshotURLs": ["https://example.com/menace_screenshot1.png", "https://example.com/menace_screenshot2.png"],
       "versions": [
         {
@@ -43,5 +43,3 @@
       }
     }
   ],
-  "news": []
-}
